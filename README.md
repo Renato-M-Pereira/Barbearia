@@ -27,4 +27,4 @@ Por fim, nessa tela é possível ver os horários já agendados com alguns dados
 
 
 ### *ATENÇÃO*
-Readme bem básico com poucas que precisa ser melhorado.
+Readme bem básico com poucas informações que precisa ser melhorado.
